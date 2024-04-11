@@ -1,3 +1,4 @@
+# A very simple BMI calculator just for fun
 print("請輸入您的身高：")
 height=float(input())
 
